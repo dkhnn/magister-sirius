@@ -1,0 +1,4 @@
+../../__pycache__/*
+.env
+sirius.session*
+.venv
